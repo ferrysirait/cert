@@ -1,6 +1,6 @@
 Collection of official certificates from Microsoft, Cisco & Ministry of Communications and Informatics Indonesia.
 
-1. [Data Analytics] - (https://github.com/ferrysirait/cert/blob/master/DTS2019-Data-Analytics.pdf)
+1. [Data Analytics](https://github.com/ferrysirait/cert/blob/master/DTS2019-Data-Analytics.pdf) -
 [Program Online Academy](https://github.com/ferrysirait/cert/blob/master/11799000-9035-45b3-879b-1a829f75da32.pdf) from 
 Microsoft & Ministry of Communications and Informatics Indonesia
 
